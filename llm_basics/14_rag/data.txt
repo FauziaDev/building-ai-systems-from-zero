@@ -1,0 +1,4 @@
+Fauzia is learning Artificial Intelligence.
+She is learning Python, LLMs, and Generative AI.
+She is building AI projects using Python and Groq.
+Her goal is to become an AI engineer.
